@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\VisualStudio\Metanit\Metanit\Source.cpp(1818,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Metanit.vcxproj -> D:\VisualStudio\Metanit\x64\Debug\Metanit.exe
